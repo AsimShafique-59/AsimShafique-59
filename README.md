@@ -118,3 +118,12 @@ I focus on:
 ---
 
 ⭐ *Backend first. AI-ready. Always improving.*
+## 🧰 Tech Stack Badges
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Django](https://img.shields.io/badge/Django-darkgreen)
+![DRF](https://img.shields.io/badge/DRF-red)
+![React](https://img.shields.io/badge/React-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+
