@@ -111,9 +111,9 @@ I focus on:
 
 ## 📫 Contact
 
-- 💼 GitHub: https://github.com/your-username
-- 📧 Email: your-email@example.com
-- 🌍 Location: Germany
+- 💼 GitHub: https://github.com/AsimShafique-59
+- 📧 Email: asimshafique59@gmail.com
+- 🌍 Location: Pakistan
 
 ---
 
