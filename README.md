@@ -1,129 +1,41 @@
+# 👋 Hi, I’m Asim Shafique
 
-# 👋 Hi, I'm Asim Shafique
-
-🚀 Backend-Focused Software Engineer  
-🧠 Django & DRF Specialist | Full-Stack Exposure  
-🤖 RAG Chatbots & AI-Driven Applications  
-⏳ 2+ Years of Professional Development Experience
+Backend Engineer specializing in **Django & Django REST Framework**, with experience in **full-stack development** and **RAG-based AI chatbots**.
 
 ---
 
-## 🧠 About Me
-
-I am a **backend-centric developer** with strong expertise in **Django and Django REST Framework (DRF)**.  
-Over the past **2 years**, I have built **scalable backend systems**, RESTful APIs, and **AI-powered RAG chatbots**, while also working with modern frontend and Node.js ecosystems.
-
-I focus on:
-- Clean, maintainable backend architecture
-- API performance and security
-- Practical system design that works in production
+### 🧩 What I Do
+Design and build **scalable backend APIs**, authentication systems, and **AI-powered retrieval pipelines** for production-ready applications.
 
 ---
 
-## 🛠 Tech Stack
-
-### 🔹 Backend
-- **Python**
-- **Django**
-- **Django REST Framework (DRF)**
-- REST APIs
-- JWT Authentication
-- MVT / MVC Architecture
-
-### 🔹 Frontend
-- **React**
-- **TypeScript**
-- HTML / CSS
-- API Integration
-
-### 🔹 JavaScript Runtime
-- **Node.js**
-- Express.js (basic to intermediate)
-
-### 🔹 Databases
-- PostgreSQL
-- SQLite
-- Vector DB concepts (for RAG systems)
-
-### 🔹 AI / RAG Systems
-- Retrieval-Augmented Generation (RAG)
-- Embedding-based similarity search
-- Context-aware chatbot responses
-- LLM API integration
-
-### 🔹 Tools & DevOps
-- Git & GitHub
-- Docker (basic)
-- Postman
-- Linux / Windows
-- VS Code
+### 🎯 Current Focus
+- Django & DRF architecture
+- RAG chatbots (embeddings, similarity search, context injection)
+- API performance, security, and clean system design
 
 ---
 
-## 📂 Featured Projects
-
-### 🤖 RAG Chatbot System
-- Built a **Retrieval-Augmented Generation chatbot**
-- Stores previous queries & answers
-- Uses similarity matching to avoid repeated LLM calls
-- Context-aware response refinement
-
-**Tech:** Django, DRF, Python, Vector DB concepts, LLM APIs
+### ♻ Always Learning
+- Scalable SaaS backend patterns
+- Advanced RAG & LLM optimization
+- Distributed & async backend systems
 
 ---
 
-### 🔧 Backend API Platform
-- Designed secure REST APIs
-- JWT-based authentication
-- Modular, scalable Django apps
-- Optimized query handling
-
-**Tech:** Django, DRF, PostgreSQL
-
----
-
-### 🌐 Full-Stack Application
-- Backend with Django & DRF
-- Frontend with React & TypeScript
-- Clean API contracts between frontend & backend
-
-**Tech:** Django, DRF, React, TypeScript, Node.js
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-000000)
+![LLM](https://img.shields.io/badge/LLM-4B0082)
+![Embeddings](https://img.shields.io/badge/Embeddings-6A5ACD)
 
 ---
 
-## 🧩 What Sets Me Apart
-
-- Strong backend fundamentals
-- Real experience with **AI-powered systems**
-- Comfortable working across backend & frontend
-- Production-oriented mindset
-
----
-
-## 🌱 Currently Improving
-
-- Advanced system design
-- Scalable SaaS architecture
-- AI + backend optimization
-- Distributed systems basics
-
----
-
-## 📫 Contact
-
-- 💼 GitHub: https://github.com/AsimShafique-59
-- 📧 Email: asimshafique59@gmail.com
-- 🌍 Location: Pakistan
-
----
-
-⭐ *Backend first. AI-ready. Always improving.*
-## 🧰 Tech Stack Badges
-
-![Python](https://img.shields.io/badge/Python-blue)
-![Django](https://img.shields.io/badge/Django-darkgreen)
-![DRF](https://img.shields.io/badge/DRF-red)
-![React](https://img.shields.io/badge/React-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-
+📍 **Lahore, Pakistan**  
+⏳ **2+ Years Experience**
