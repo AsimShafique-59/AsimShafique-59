@@ -1,5 +1,6 @@
-👋 Hi, I'm Asim Shafique  
-💻 Backend Engineer | Django & DRF Specialist | RAG Chatbots
+# 👋 Hi, I’m Asim Shafique
+
+## 💻 Backend Engineer | Django & DRF Specialist | RAG Chatbots
 
 I build **scalable backend systems**, **clean REST APIs**, and **AI-powered RAG pipelines**.  
 Focused on production-ready architectures, performance, and maintainable code.
