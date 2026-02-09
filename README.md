@@ -55,6 +55,9 @@ GitHub: https://github.com/AsimShafique-59
 
 Email: asimshafique59@gmail.com 
 
+Linkedin:https://www.linkedin.com/in/muhammad-asim-shafique-0581411aa/
+
+
 📍 Lahore, Pakistan  
 ⏳ 2+ Years Experience
 
