@@ -8,6 +8,7 @@ Focused on production-ready architectures, performance, and maintainable code.
 ---
 
 🚀 What I Do
+
 🔹 Backend development with Django & Django REST Framework  
 🔹 Design secure REST APIs (JWT, auth, permissions)  
 🔹 Build RAG chatbots using embeddings & similarity search  
