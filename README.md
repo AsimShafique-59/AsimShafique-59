@@ -47,7 +47,18 @@ Async & distributed backend systems
 ![LLM](https://img.shields.io/badge/LLM-4B0082?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-8A2BE2?style=for-the-badge)
 
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-6A1B9A?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-512DA8?style=for-the-badge)
 ---
 
 📫 Connect with Me
