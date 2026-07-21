@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,50:D97757,100:6A1B9A&height=250&section=header&text=Asim%20Shafique&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Django%20%26%20DRF%20Specialist%20%7C%20RAG%20Chatbots&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,50:D97757,100:6A1B9A&height=250&section=header&text=Asim%20Shafique&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20AI%20Engineer%20%7C%20Django%2C%20DRF%20%26%20RAG&descAlignY=52&descSize=18" width="100%"/>
 
 <a href="https://github.com/AsimShafique-59">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=D97757&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems...;Django+%2B+DRF+%2B+PostgreSQL+specialist;Crafting+RAG+pipelines+with+LLMs;Turning+ideas+into+production-ready+APIs;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=D97757&center=true&vCenter=true&width=650&lines=Full-stack+developer%2C+backend+%26+AI+focused;Django+%2B+DRF+%2B+PostgreSQL+specialist;Crafting+RAG+pipelines+with+LLMs;React+%2F+Next.js+for+the+frontend+layer;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -22,11 +22,11 @@
 
 ## 👋 About Me
 
-I build **scalable backend systems**, **clean REST APIs**, and **AI-powered RAG pipelines** — focused on production-ready architectures, performance, and maintainable code.
+I'm a **full-stack developer** who builds complete products end to end, but I live mostly on the **backend** and in **AI engineering** — **scalable backend systems**, **clean REST APIs**, and **AI-powered RAG pipelines** — focused on production-ready architectures, performance, and maintainable code.
 
 ```yaml
 name: Asim Shafique
-role: Backend Engineer / AI Engineer
+role: Full-Stack Developer (Backend & AI focused)
 location: Lahore, Pakistan
 experience: 2+ Years
 currently_building: RAG chatbots & scalable SaaS backends
