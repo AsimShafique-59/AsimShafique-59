@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,50:D97757,100:6A1B9A&height=250&section=header&text=Asim%20Shafique&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20AI%20Engineer%20%7C%20Django%2C%20DRF%20%26%20RAG&descAlignY=52&descSize=18" width="100%"/>
+<img src="assets/header-banner.svg" width="100%"/>
 
 <a href="https://github.com/AsimShafique-59">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=D97757&center=true&vCenter=true&width=650&lines=Full-stack+developer%2C+backend+%26+AI+focused;Django+%2B+DRF+%2B+PostgreSQL+specialist;Crafting+RAG+pipelines+with+LLMs;React+%2F+Next.js+for+the+frontend+layer;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
