@@ -153,10 +153,10 @@ fun_fact: "I ship code with the precision of a well-indexed query 🔍"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AsimShafique-59&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.hackclub.dev/api?username=AsimShafique-59&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsimShafique-59&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsimShafique-59&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=AsimShafique-59&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsimShafique-59&theme=tokyo-night&hide_border=true" width="49%"/>
 
 </div>
