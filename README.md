@@ -27,7 +27,6 @@ I'm a **full-stack developer** who builds complete products end to end, but I li
 ```yaml
 name: Asim Shafique
 role: Full-Stack Developer (Backend & AI focused)
-location: Lahore, Pakistan
 experience: 2+ Years
 currently_building: RAG chatbots & scalable SaaS backends
 currently_learning: Advanced LLM orchestration & distributed systems
