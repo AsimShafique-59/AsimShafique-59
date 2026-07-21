@@ -196,7 +196,7 @@ fun_fact: "I ship code with the precision of a well-indexed query 🔍"
 <a href="https://www.linkedin.com/in/muhammad-asim-shafique-0581411aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:asimshafique59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-📍 **Lahore, Pakistan** &nbsp;•&nbsp; ⏳ **2+ Years Experience**
+⏳ **2+ Years Experience**
 
 ### ✨ "Build systems that scale, not just code that works."
 
